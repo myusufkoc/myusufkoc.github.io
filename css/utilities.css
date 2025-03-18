@@ -1,6 +1,6 @@
 /* Text colors */
 .text-primary {
-    color: #c5b803;
+    color: #05696B;
 }
 
 .text-secondary {
@@ -12,7 +12,7 @@
     display: inline-block;
     padding: 10px 30px;
     color: #fff;
-    background-color: #c5b803;
+    background-color: #05696B;
     border: none;
     border-radius: 5px;
 }
@@ -24,7 +24,7 @@
 
 .btn-primary,
 .bg-primary {
-    background: #c5b803;
+    background: #05696B;
     color: #fff;
 }
 
@@ -157,4 +157,33 @@
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
+}
+
+a.download-link {
+    color: #28a745; /* Yeşil renk */
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease, background 0.3s ease;
+}
+
+a.download-link:hover {
+    color: #fff;
+    background: #28a745;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* View Link Styling */
+a.view-link {
+    color: #007bff; /* Mavi renk */
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease, background 0.3s ease;
+}
+
+a.view-link:hover {
+    color: #fff;
+    background: #007bff;
+    padding: 5px 10px;
+    border-radius: 5px;
 }

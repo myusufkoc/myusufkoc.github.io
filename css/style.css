@@ -64,7 +64,7 @@ img {
 }
 
 .navbar a:hover {
-    border-bottom: #c5b803 2px solid;
+    border-bottom: #b9f2ff 2px solid;
 }
 
 .navbar ul {
@@ -135,7 +135,7 @@ img {
 }
 
 .icons i {
-    background-color: #c5b803;
+    background-color: #b9f2ff;
     color: #fff;
     padding: 1rem;
     border-radius: 50%;
@@ -181,7 +181,7 @@ img {
 }
 
 .callback-form input:focus {
-    outline-color: #c5b803;
+    outline-color: #b9f2ff;
 
 }
 
@@ -229,7 +229,7 @@ img {
 }
 
 .footer a:hover {
-    color: #c5b803;
+    color: #b9f2ff;
 }
 
 .footer .social>* {
